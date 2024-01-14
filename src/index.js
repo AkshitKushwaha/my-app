@@ -15,3 +15,7 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+// entry point of our react app
+
+//"const root = ReactDOM.createRoot(document.getElementById('root'));". This syntax basically means wherever there is root tag in div in index.html, render the app component there
